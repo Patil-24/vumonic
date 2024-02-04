@@ -1,4 +1,4 @@
-# React Native App(Secure Google Login Auth including carousel and some beautiful ui for pie chart bar progress)
+# React Native App(Secure Google Login Auth including carousel and some beautiful ui like pie char, progress bar etc)
 
 ## Screens
 
@@ -22,6 +22,19 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone url goes here
+   git clone https://github.com/Patil-24/vumonic   
+   cd vumonic
+2. **Install dependancies:**
+   ```bash
+   npm install
+3. **Run Application:**
+   ```bash
+   npm start
    
-   cd your-repo
+## Importamt Note
+
+  - Make sure before installing this application your react native cli development is already set on your local machine
+  - this project is based on the Google OAuth (for that you require the google cloud console or firebase account to use the google credentials
+   
+   
+   
