@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "962724222313",
+    "project_id": "vumonic-c8eb7",
+    "storage_bucket": "vumonic-c8eb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962724222313:android:9d4a9c29d23bcd2ca459f8",
+        "android_client_info": {
+          "package_name": "com.vumonic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962724222313-4prt26s9894c5kc20rnulljhfp6fat5o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vumonic",
+            "certificate_hash": "f597801229d9c552453adcd0865f143707786de4"
+          }
+        },
+        {
+          "client_id": "962724222313-2mcovfr5ivuh4q5nsdol1bjj7cepej0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY9a1MlMaXFEJAAR40QChj2bI302WZSlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962724222313-2mcovfr5ivuh4q5nsdol1bjj7cepej0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
